@@ -153,6 +153,7 @@ input[type="text"]{
 #logo{
     margin: 1.3vw;
     margin-left: 5vw;
+    width: 20vw;
 }
 .search{
     z-index: 1;
